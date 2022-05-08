@@ -1,0 +1,48 @@
+/* 字体引入 */
+@font-face {
+    font-family: font1;
+    src: url(./font/BOOMBOX.TTF)
+}
+
+@font-face {
+    font-family: font2;
+    src: url(./font/FZJZJW.TTF)
+}
+
+@font-face {
+    font-family: font3;
+    src: url(./font/LTCH.TTF)
+}
+
+@font-face {
+    font-family: font4;
+    src: url(./font/ONYX.TTF)
+}
+
+@font-face {
+    font-family: font5;
+    src: url(./font/ROCK.TTF)
+}
+
+@font-face {
+    font-family: font6;
+    src: url(./font/TCCM____.TTF)
+}
+.lineHeight{line-height: 20px;}
+.font1{font-family: font1;}
+.font2{font-family: font2;}
+.font3{font-family: font3;}
+.font4{font-family: font4;}
+.font5{font-family: font5;}
+.font6{font-family: font6;}
+.size10{font-size: 10px;}
+.size20{font-size: 20px;}
+.size30{font-size: 30px;}
+.size35{font-size: 35px;}
+.size40{font-size: 40px;}
+.size50{font-size: 50px;}
+.green{color: #4C9372;}
+.red{color: #E1005A;}
+.grey{color: #747474;}
+.weightBolder{font-weight: bolder;}
+.styleOblique{font-style: oblique;}
